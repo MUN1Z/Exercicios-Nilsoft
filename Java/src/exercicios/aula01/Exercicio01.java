@@ -1,7 +1,7 @@
 /*
  * Faça um Programa que mostre a mensagem "Alo mundo" na tela.
  */
-package exercicios;
+package exercicios.aula01;
 
 /**
  * Exericicio01 [Classe]
