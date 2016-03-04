@@ -7,7 +7,7 @@ package exercicios.aula01;
 import java.util.Scanner;
 
 /**
- * Exericicio01 [Classe]
+ * Exericicio02 [Classe]
  * @author Felipe Muniz, 2016, Nilsoft
  */
 public class Exercicio02 {
