@@ -21,7 +21,7 @@ public class Exercicio04 {
 
         for (int i = 0; i < 4; i++) {
             System.out.println("Digite a "+(i+1)+"ª nota: ");
-            nota[i] = entrada.nextInt();
+            nota[i] = entrada.nextFloat();
         }
         
         media = (nota[0] + nota[1] + nota[2] + nota[3]) / 4;

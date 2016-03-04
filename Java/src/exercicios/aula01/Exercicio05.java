@@ -19,7 +19,7 @@ public class Exercicio05 {
         float metro, centimetro;
 
         System.out.println("Digite quantos metros quer converter para centimetros:");
-        metro = entrada.nextInt();
+        metro = entrada.nextFloat();
 
         System.out.println("\n" + metro + " metros é igual a " + metro / 0.010000 +" centimetros");
 
