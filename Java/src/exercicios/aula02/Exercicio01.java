@@ -3,7 +3,6 @@
  */
 package exercicios.aula02;
 
-import exercicios.aula01.*;
 import java.util.Scanner;
 
 /**
